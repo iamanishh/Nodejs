@@ -6,3 +6,6 @@ fs.appendFile("./sample1.txt", "utf-8", (err, data) => {
 });
 
 console.log("It is first");
+
+/* APPEND create a file if it is not there */
+/* APPEND just write below the line of already created code */
